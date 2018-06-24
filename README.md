@@ -1,6 +1,6 @@
 # Intro to Hashes Lab
 
-## Objectives
+## Objectivest
 
 1. Build simple hashes.
 2. Build nested hashes.
